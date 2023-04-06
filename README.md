@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hanuma 
 - 👀 I’m interested in Software Architecture
-- 🌱 I’m currently learning [Rust](https://github.com/rust-lang/rust)
 - 💞️ I’m looking to collaborate on real world solutions especially in the Healthcare domain
 
 ## 📫 How to reach me 
